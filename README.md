@@ -7,9 +7,12 @@ https://mp.weixin.qq.com/s/SPHeJ_nwu7BsDBHQc2UmNA
 docker-compose教程（安装，使用, 快速入门）
 https://blog.csdn.net/pushiqiang/article/details/78682323 
 
+如何用 10 行 bash shell 脚本监控 Linux
+https://mp.weixin.qq.com/s/lt5RvYZ6fInPa9v4YubCJA
+
 部署centos全过程
-[ ] 服务器配置
-[ ] 测试服务器  192.168.196.72
+服务器配置
+测试服务器  192.168.196.72
 
 [X] linux 安装配置zerotier
 1、在线安装zerotier
